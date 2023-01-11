@@ -1,7 +1,7 @@
 import { useSelector } from 'react-redux';
 import { getContacts } from 'redux/selectors';
 import { Box } from './reusableComponents';
-import ContactsInput from './ContactsInput';
+import ContactsInput from './ContactsForm';
 import ContactsList from './ContactsList';
 import Filter from './Filter';
 

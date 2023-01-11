@@ -7,7 +7,7 @@ import {
   InputLabel,
   Input,
   ErrorMsgStyled,
-} from 'components/ContactsInput/ContactsForm.styled';
+} from 'components/ContactsForm/ContactsForm.styled';
 import { Button } from 'components/reusableComponents';
 import { Title } from 'components/reusableComponents';
 import { Box } from 'components/reusableComponents';
